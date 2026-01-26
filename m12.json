@@ -1,0 +1,37 @@
+[
+    {
+        "tipo": "Ciclo (Contador)",
+        "url": "https://i.ibb.co/qMp5zYcj/20260125-212141.jpg",
+        "acao": "clique",
+        "localPath": "/storage/emulated/0 /Download/Autojs_Images/20260125-212141.jpg",
+        "status": "Pendente"
+    },
+    {
+        "tipo": "Anúncio (Limpeza)",
+        "url": "https://i.ibb.co/p67zgXdW/20260125-212746.jpg",
+        "acao": "clique",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/20260125-212746.jpg",
+        "status": "Pendente"
+    },
+    {
+        "tipo": "Anúncio (Limpeza)",
+        "url": "https://i.ibb.co/N69WmZjs/20260125-212809.jpg",
+        "acao": "voltar",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/20260125-212809.jpg",
+        "status": "Pendente"
+    },
+    {
+        "tipo": "Anúncio (Limpeza)",
+        "url": "https://i.ibb.co/VWGB6FLv/20260125-212830.jpg",
+        "acao": "clique",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/20260125-212830.jpg",
+        "status": "Pendente"
+    },
+    {
+        "tipo": "Anúncio (Limpeza)",
+        "url": "https://i.ibb.co/7thpfNGS/20260125-221633.jpg",
+        "acao": "clique",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/20260125-221633.jpg",
+        "status": "Pendente"
+    }
+]
