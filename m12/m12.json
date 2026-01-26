@@ -1,0 +1,37 @@
+[
+    {
+        "tipo": "Ciclo (Contador)",
+        "url": "https://github.com/clouldtops1-byte/Imgssp/blob/main/m12/Screenshot_20260126_151932.jpg?raw=true",
+        "acao": "clique",
+        "localPath": "/storage/emulated/0 /Download/Autojs_Images/Screenshot_20260126_151932.jpg",
+        "status": "Pendente"
+    },
+    {
+        "tipo": "Anúncio (Limpeza)",
+        "url": "https://github.com/clouldtops1-byte/Imgssp/blob/main/m12/Screenshot_20260126_152947.jpg?raw=true",
+        "acao": "clique",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/Screenshot_20260126_152947.jpg",
+        "status": "Pendente"
+    },
+    {
+        "tipo": "Anúncio (Limpeza)",
+        "url": "https://github.com/clouldtops1-byte/Imgssp/blob/main/m12/Screenshot_20260126_153707.jpg?raw=true",
+        "acao": "clique",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/Screenshot_20260126_153707.jpg",
+        "status": "Pendente"
+    },
+    {
+        "tipo": "Anúncio (Limpeza)",
+        "url": "https://github.com/clouldtops1-byte/Imgssp/blob/main/m12/Screenshot_20260126_153725_Google%20Play%20Store.jpg?raw=true",
+        "acao": "voltar",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/Screenshot_20260126_153725_Google%20Play%20Store.jpg",
+        "status": "Pendente"
+    },
+    {
+        "tipo": "Anúncio (Limpeza)",
+        "url": "https://github.com/clouldtops1-byte/Imgssp/blob/main/m12/Screenshot_20260126_153732.jpg?raw=true",
+        "acao": "clique",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/Screenshot_20260126_153732.jpg",
+        "status": "Pendente"
+    }
+]
