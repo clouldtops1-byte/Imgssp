@@ -1,37 +1,37 @@
 [
     {
         "tipo": "Ciclo (Contador)",
-        "url": "https://i.ibb.co/qMp5zYcj/20260125-212141.jpg",
+        "url": "https://github.com/clouldtops1-byte/Imgssp/blob/main/m12/Screenshot_20260126_151932.jpg?raw=true",
         "acao": "clique",
-        "localPath": "/storage/emulated/0 /Download/Autojs_Images/20260125-212141.jpg",
+        "localPath": "/storage/emulated/0 /Download/Autojs_Images/Screenshot_20260126_151932.jpg",
         "status": "Pendente"
     },
     {
         "tipo": "Anúncio (Limpeza)",
-        "url": "https://i.ibb.co/p67zgXdW/20260125-212746.jpg",
+        "url": "",
         "acao": "clique",
-        "localPath": "/storage/emulated/0/Download /Autojs_Images/20260125-212746.jpg",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/",
         "status": "Pendente"
     },
     {
         "tipo": "Anúncio (Limpeza)",
-        "url": "https://i.ibb.co/N69WmZjs/20260125-212809.jpg",
+        "url": "",
         "acao": "voltar",
-        "localPath": "/storage/emulated/0/Download /Autojs_Images/20260125-212809.jpg",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/",
         "status": "Pendente"
     },
     {
         "tipo": "Anúncio (Limpeza)",
-        "url": "https://i.ibb.co/VWGB6FLv/20260125-212830.jpg",
+        "url": "",
         "acao": "clique",
-        "localPath": "/storage/emulated/0/Download /Autojs_Images/20260125-212830.jpg",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/",
         "status": "Pendente"
     },
     {
         "tipo": "Anúncio (Limpeza)",
-        "url": "https://i.ibb.co/7thpfNGS/20260125-221633.jpg",
+        "url": "",
         "acao": "clique",
-        "localPath": "/storage/emulated/0/Download /Autojs_Images/20260125-221633.jpg",
+        "localPath": "/storage/emulated/0/Download /Autojs_Images/",
         "status": "Pendente"
     }
 ]
