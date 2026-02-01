@@ -1,0 +1,58 @@
+{
+  "configuracoes": {
+    "intervaloEntreCiclos": 2000,
+    "intervaloEntreCliques": 1000,
+    "intervaloVerificacaoApp": 500,
+    "precisaoImagem": 0.8,
+    "limiteCiclos": 0,
+    "voltarAppAutomatico": true,
+    "notificarCliques": true,
+    "logarDetalhes": true,
+    "tentativasMaximas": 3,
+    "aguardarAposAbrir": 3000,
+    "aguardarAposCiclo": 5000,
+    "aguardarAposFechar": 1000,
+    "intervaloTentativaCiclo": 1000,
+    "telegramAtivo": false,
+    "telegramChatId": "",
+    "telegramRelatorioCiclos": 0
+  },
+  "tentativas": {
+    "tentativas": 0,
+    "bloqueadoAte": 0
+  },
+  "credenciais": {
+    "usuario": "vsphone",
+    "senha": "naosei"
+  },
+  "version": "3.0",
+  "lastUpdate": "2026-02-01T16:23:49.444Z",
+  "imagensPorUsuario": {
+    "vsphone": [
+      {
+        "nome": "Home",
+        "caminho": "/sdcard/bot_miner_v3_plus_images/Home.jpg",
+        "caminhoRemoto": "https://raw.githubusercontent.com/clouldtops1-byte/Imgssp/refs/heads/main/vsphone/_20260201_064200.JPG",
+        "ciclo": true
+      },
+      {
+        "nome": "Close 1",
+        "caminho": "/sdcard/bot_miner_v3_plus_images/Close_1.jpg",
+        "caminhoRemoto": "https://raw.githubusercontent.com/clouldtops1-byte/Imgssp/refs/heads/main/vsphone/_20260201_064757.JPG",
+        "ciclo": false
+      },
+      {
+        "nome": "Close 2",
+        "caminho": "/sdcard/bot_miner_v3_plus_images/Close_2.jpg",
+        "caminhoRemoto": "https://raw.githubusercontent.com/clouldtops1-byte/Imgssp/refs/heads/main/vsphone/_20260201_065151.JPG",
+        "ciclo": false
+      },
+      {
+        "nome": "Close 3",
+        "caminho": "/sdcard/bot_miner_v3_plus_images/Close_3.jpg",
+        "caminhoRemoto": "https://raw.githubusercontent.com/clouldtops1-byte/Imgssp/refs/heads/main/vsphone/_20260201_065424.JPG",
+        "ciclo": false
+      }
+    ]
+  }
+}
